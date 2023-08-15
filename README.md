@@ -7,3 +7,6 @@ https://www.guvi.in/test-my-model/sakthivels2020ece?course=ai_for_in_ta
 Note:- It requires an access to Camera, 
 
 Model(1) files were the updated versions of the above link, which can identifies Phones.
+
+
+On behalf of my knowledge it works on the basis of Python(OOPS) dictionary.
